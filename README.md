@@ -30,7 +30,7 @@ Language learning has historically been rigid and static. As someone deeply inve
 - Demonstrated high user engagement and retention in pre-alpha testing compared to traditional static reading/listening exercises.
 
 ## 📬 Full Paper Request & Contact
-As the full paper containing the detailed system architecture and performance metrics is actively being published across multiple academic publishers and media outlets, the complete manuscript is not fully published in this public repository yet. 
+As the full paper containing the detailed system architecture and performance metrics is actively being published across multiple academic publishers and media outlet, the complete manuscript is not fully published in this public repository yet. 
 
 I am highly open to academic collaboration and would gladly share the full manuscript drafts with interested professors and researchers. 
 
