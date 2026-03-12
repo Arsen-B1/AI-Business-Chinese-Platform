@@ -23,7 +23,7 @@ Language learning has historically been rigid and static. As someone deeply inve
 ## 🧠 Methodology & Tech Stack
 - **Conversational AI:** Integration of LLMs customized for business Chinese contexts and dialogue trees.
 - **Assessment Module:** Automated feedback loops for grammar correction and sentiment analysis of the user's negotiation stance.
-- **Web Architecture:** Next.js (React) frontend with a Node.js/Express backend.
+- **Web Architecture:** Next.js (React) frontend with  Node.js/Express backend.
 
 ## 📊 Key Findings / Results
 - Successfully modeled real-world business negotiation scenarios (e.g., price haggling, contract terms) using the integrated AI chatbot.
